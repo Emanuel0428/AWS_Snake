@@ -8,5 +8,5 @@ Este repositorio contiene una aplicación simple de Flask que se despliega autom
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/Emanuel0428/CODI.git
    cd tu_repositorio
