@@ -10,3 +10,6 @@ Este repositorio contiene una aplicación simple de Flask que se despliega autom
    ```bash
    git clone https://github.com/Emanuel0428/CODI.git
    cd tu_repositorio
+2. Instala curses por consola para python:
+   ```bash
+  pip install windows-curses
